@@ -5,4 +5,4 @@ export async function productsData(){
       "https://fakestoreapiserver.vercel.app/amazonproducts"
     );
     return products
-}
+} 
